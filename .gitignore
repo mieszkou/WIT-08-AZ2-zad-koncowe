@@ -1,1 +1,6 @@
 credentials.xml
+*.zip
+poprawiony/*
+assets/*
+*.odt
+test*.*
