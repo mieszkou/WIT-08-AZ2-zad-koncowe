@@ -1,6 +1,6 @@
 credentials.xml
 *.zip
-poprawiony/*
-assets/*
+poprawiony
+assets
 *.odt
 test*.*
